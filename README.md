@@ -77,13 +77,5 @@ Building at the intersection of **AI/ML engineering**, **full-stack development*
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreesh-chauhan&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreesh-chauhan&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
 
 *Open to internships and new grad roles — let's build something meaningful.*
