@@ -59,6 +59,10 @@ Building at the intersection of **AI/ML engineering**, **full-stack development*
 - Boosted organic search visibility through data-driven SEO — meta descriptions, keyword strategy
 - Built high-traffic index pages and maintained site health for 100+ students
 
+**Research Teaching Assistant — LING 200 @ Stony Brook** *(Jan 2026 – May 2026)*
+- Managed LMS deployment schedules, ensuring module releases synced with the syllabus for 100+ students
+- Audited digital course modules weekly for 100% link integrity and pedagogical alignment
+
 **Developer Intern @ Total VDO Solution** *(May 2024 – Jun 2024)*
 - Built high-performance e-commerce web portals and refined CMS platforms
 - Contributed to full-stack development, code optimization, and production-level issue resolution
@@ -66,6 +70,16 @@ Building at the intersection of **AI/ML engineering**, **full-stack development*
 ---
 
 ## 🚀 Projects
+
+### 🕵️ AI Fraud Investigation Copilot
+> LLM-powered tool that automates fraud case investigation and generates explainable risk narratives
+
+- Built a 6-layer GNN architecture to model transaction relationship graphs for anomaly detection
+- Integrated an LLM reasoning layer to auto-generate investigation summaries and flag suspicious patterns
+- Designed a RAG pipeline over case history using vector search for context-aware fraud explanations
+- **Stack:** Python · PyTorch Geometric · LangChain · FastAPI · ChromaDB · PostgreSQL
+
+---
 
 ### 🎮 SOL QUEST — *Best Beginner Hack @ Hopper Hacks*
 > Play-to-earn Web3 game with real-time gameplay and live Solana blockchain transactions
@@ -77,5 +91,13 @@ Building at the intersection of **AI/ML engineering**, **full-stack development*
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreesh-chauhan&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreesh-chauhan&layout=compact&theme=dark&hide_border=true" height="150"/>
+</p>
+
+---
 
 *Open to internships and new grad roles — let's build something meaningful.*
