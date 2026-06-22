@@ -32,8 +32,7 @@ Building at the intersection of **AI/ML engineering**, **full-stack development*
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
 
-**Certifications**  
-🎓 Cloud Computing Specialization — *University of Illinois Urbana-Champaign*  
+**Certifications**   
 🎓 Introduction to Machine Learning — *Duke University*
 
 ---
