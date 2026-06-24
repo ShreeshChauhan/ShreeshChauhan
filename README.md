@@ -37,7 +37,7 @@ Building at the intersection of **AI/ML engineering**, **full-stack development*
 
 ---
 
-## 📌 About Me
+##  About Me
 
 - 🤖 Currently at **CRIZM** — building AI-powered grading workflows and ABET accreditation tooling
 - 🏆 Won **Best Beginner Hack** at Hopper Hacks (SBU) — built a Web3 play-to-earn game in 16 hours
@@ -46,7 +46,7 @@ Building at the intersection of **AI/ML engineering**, **full-stack development*
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **Founding Junior CRIZMeer @ CRIZM** *(Jan 2026 – Present)*
 - Contributed to an AI platform for grading workflows, student feedback analytics, and ABET accreditation evidence tracking
