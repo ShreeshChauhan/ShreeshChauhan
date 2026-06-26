@@ -62,10 +62,6 @@ Building at the intersection of **AI/ML engineering**, **full-stack development*
 - Managed LMS deployment schedules, ensuring module releases synced with the syllabus for 100+ students
 - Audited digital course modules weekly for 100% link integrity and pedagogical alignment
 
-**Developer Intern @ Total VDO Solution** *(May 2024 – Jun 2024)*
-- Built high-performance e-commerce web portals and refined CMS platforms
-- Contributed to full-stack development, code optimization, and production-level issue resolution
-
 ---
 
 ## 🚀 Projects
