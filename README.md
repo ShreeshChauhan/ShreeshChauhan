@@ -88,4 +88,4 @@ Building at the intersection of **AI/ML engineering**, **full-stack development*
 
 
 
-*Open to internships and new grad roles — let's build something meaningful.*
+*Open to internship roles — let's build something meaningful.*
