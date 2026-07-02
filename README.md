@@ -3,7 +3,7 @@
 ### CS @ Stony Brook University (2025 – 2029)
 Building at the intersection of **AI/ML engineering**, **full-stack development**, and **web3 solutions**.
 
-📫 shreesh.chauhan@stonybrook.edu · [LinkedIn](https://www.linkedin.com/in/shreesh-chauhan-99b97029a)
+📫 shreeshchauhan.01@gmail.com · [LinkedIn](https://www.linkedin.com/in/shreesh-chauhan-99b97029a)
 
 ---
 
