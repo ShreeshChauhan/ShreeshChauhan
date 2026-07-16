@@ -64,9 +64,9 @@ Building at the intersection of **AI/ML engineering**, **full-stack development*
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🕵️ AI Fraud Investigation Copilot
+###  AI Fraud Investigation Copilot
 > LLM-powered tool that automates fraud case investigation and generates explainable risk narratives
 
 - Built a 6-layer GNN architecture to model transaction relationship graphs for anomaly detection
@@ -76,7 +76,7 @@ Building at the intersection of **AI/ML engineering**, **full-stack development*
 
 ---
 
-### 🎮 SOL QUEST — *Best Beginner Hack @ Hopper Hacks*
+###  SOL QUEST — *Best Beginner Hack @ Hopper Hacks*
 > Play-to-earn Web3 game with real-time gameplay and live Solana blockchain transactions
 
 - Architected the **Django backend** to securely manage game state and transaction logic
