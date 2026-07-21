@@ -87,6 +87,6 @@ Building at the intersection of **AI/ML engineering**, **full-stack development*
 ---
 
 ![](https://komarev.com/ghpvc/?username=ShreeshChauhan)
-![](https://komarev.com/ghpvc/?username=shreeshchauhan&label=Profile+Views&color=0e75b6&style=flat)
+
 
 *Open to internship roles — let's build something meaningful.*
