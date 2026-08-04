@@ -1,6 +1,6 @@
 # Hi, I'm Shreesh! 👋
 
-### CS @ Stony Brook University (2025 – 2029)
+### CIS @ Stony Brook University (2025 – 2029)
 Building at the intersection of **AI/ML engineering**, **full-stack development**, and **web3 solutions**.
 
 📫 shreeshchauhan.01@gmail.com · [LinkedIn](https://www.linkedin.com/in/shreesh-chauhan/)
