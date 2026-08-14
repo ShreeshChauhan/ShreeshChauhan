@@ -34,7 +34,8 @@ Building at the intersection of **AI/ML engineering**, **full-stack development*
 
 **Certifications** 
 
-🎓 ML Summer School 2026 - *Cohere Labs*
+🎓 ML Summer School 2026  — *Cohere Labs*
+
 🎓 Introduction to Machine Learning — *Duke University*
 
 ---
