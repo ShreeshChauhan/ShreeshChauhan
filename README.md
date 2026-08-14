@@ -33,6 +33,7 @@ Building at the intersection of **AI/ML engineering**, **full-stack development*
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
 
 **Certifications** 
+
 🎓 ML Summer School 2026 - *Cohere Labs*
 🎓 Introduction to Machine Learning — *Duke University*
 
