@@ -49,42 +49,13 @@ Building at the intersection of **AI/ML engineering**, **full-stack development*
 ##  Experience
 
 **Founding Junior CRIZMeer @ CRIZM** *(Jan 2026 – Present)*
-- Contributed to an AI platform for grading workflows, student feedback analytics, and ABET accreditation evidence tracking
 - Extended Joern static analysis tooling to support C++ and Python for automated multi-language code quality evaluation
-- Worked in an agile, research-driven team under faculty mentorship
 
-**Marketing Student Assistant @ Auxiliary Services, Stony Brook** *(Jan 2026 – Present)*
+**Web Developer & CMS Specialist @ Auxiliary Services, Stony Brook** *(Jan 2026 – Present)*
 - Executing end-to-end website migrations on Modern Campus CMS with custom code and reusable components
-- Boosted organic search visibility through data-driven SEO — meta descriptions, keyword strategy
-- Built high-traffic index pages and maintained site health for 100+ students
-
-**Research Teaching Assistant — LING 200 @ Stony Brook** *(Jan 2026 – May 2026)*
-- Managed LMS deployment schedules, ensuring module releases synced with the syllabus for 100+ students
-- Audited digital course modules weekly for 100% link integrity and pedagogical alignment
 
 ---
 
-##  Projects
-
-###  AI Fraud Investigation Copilot
-> LLM-powered tool that automates fraud case investigation and generates explainable risk narratives
-
-- Built a 6-layer GNN architecture to model transaction relationship graphs for anomaly detection
-- Integrated an LLM reasoning layer to auto-generate investigation summaries and flag suspicious patterns
-- Designed a RAG pipeline over case history using vector search for context-aware fraud explanations
-- **Stack:** Python · PyTorch Geometric · LangChain · FastAPI · ChromaDB · PostgreSQL
-
----
-
-###  SOL QUEST — *Best Beginner Hack @ Hopper Hacks*
-> Play-to-earn Web3 game with real-time gameplay and live Solana blockchain transactions
-
-- Architected the **Django backend** to securely manage game state and transaction logic
-- Integrated live Solana wallet transactions with a Phaser-based top-down game engine
-- Built under 16-hour hackathon pressure as part of a 4-person team
-- **Stack:** Django · Phaser · React · Vite · Tailwind · Solana
-
----
 
 ![](https://komarev.com/ghpvc/?username=ShreeshChauhan)
 
