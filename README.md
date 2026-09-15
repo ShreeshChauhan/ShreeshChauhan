@@ -1,66 +1,32 @@
-# Hi, I'm Shreesh! 👋
+# Hey, I'm Shreesh 👋
 
-### CIS @ Stony Brook University (2025 – 2029)
-Building at the intersection of **AI/ML engineering**, **full-stack development**, and **web3 solutions**.
+### CIS @ Stony Brook University · AI/ML · Backend · Full-Stack
 
-📫 shreeshchauhan.01@gmail.com · [LinkedIn](https://www.linkedin.com/in/shreesh-chauhan/)
+I build **AI-powered systems, developer tools, and full-stack products**.
 
----
+Currently exploring the intersection of **machine learning, software infrastructure, and intelligent applications**.
 
-## 🛠️ Tech Stack
+🎓 Stony Brook University — CIS + Applied Mathematics  
+🤖 Founding Engineer @ CRIZM  
+🌐 Web Developer Assistant @ SBU  
+🏆 Hopper Hacks 2026 — Beginner Track Winner
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**ML / AI**  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
-**Full-Stack & Backend**  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Tools & Infra**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
-
-**Certifications** 
-
-🎓 ML Summer School 2026  — *Cohere Labs*
-
-🎓 Introduction to Machine Learning — *Duke University*
+<p align="left">
+  <a href="https://www.linkedin.com/in/shreesh-chauhan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shreesh.chauhan@stonybrook.edu">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-##  About Me
+## ⚡ Currently
 
-- 🤖 Currently at **CRIZM** — building AI-powered grading workflows and ABET accreditation tooling
-- 🏆 Won **Best Beginner Hack** at Hopper Hacks (SBU) — built a Web3 play-to-earn game in 16 hours
-- 💼 Interested in roles in **AI/ML Engineering**, **Software Engineering**, and **Full-Stack Development**
-- 🌐 Languages: English (native) · French (working proficiency)
-
----
-
-##  Experience
-
-**Founding Junior CRIZMeer @ CRIZM** *(Jan 2026 – Present)*
-- Extended Joern static analysis tooling to support C++ and Python for automated multi-language code quality evaluation
-
-**Web Developer & CMS Specialist @ Auxiliary Services, Stony Brook** *(Jan 2026 – Present)*
-- Executing end-to-end website migrations on Modern Campus CMS with custom code and reusable components
-
----
-
-
-![](https://komarev.com/ghpvc/?username=ShreeshChauhan)
-
-
-*Open to internship roles — let's build something meaningful.*
+```text
+🤖 Building       AI-assisted grading & accreditation infrastructure
+🔬 Working on     ML systems + static program analysis
+💻 Developing     Backend & full-stack applications
+🌐 Exploring      Web3 / Blockchain systems
+📚 Studying       Computer Information Systems + Applied Mathematics
